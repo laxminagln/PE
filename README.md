@@ -5,11 +5,12 @@ Power_electronics.pdf
 ### Lesson 2
 Power_MOSFET.pdf
 ### Lesson 3
-AC to DC
+AC to DC rectifier
 ### Lesson 4
-AC to AC
+AC to AC converter
 ### Lesson 5
-DC to DC
+DC to DC converter
 ### Lesson 6
-DC to AC
+DC to AC inverter
 ### Lesson 7
+Smart Grid
